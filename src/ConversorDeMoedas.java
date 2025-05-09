@@ -7,7 +7,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class ConversorDeMoedas {
-
+// conversor de moedas
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/cd67f52a20eca367596224bd/latest/USD";
 
     public static void main(String[] args) {
